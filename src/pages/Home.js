@@ -6,7 +6,7 @@ function HomePage(){
 	return (
 		<>
 			<h1>HomePage</h1>
-			<p><Link to="/products">link to products</Link></p>
+			<p><Link to="products">link to products</Link></p>
 		</>
 	)
 };
